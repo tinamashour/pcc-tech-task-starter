@@ -10,7 +10,7 @@ data = res.read().decode("utf-8")
 
 json = json.loads(data)
 
-pprint.pprint(data)
+pprint.pprint(json)
 
 ranked_teams = {}
 
