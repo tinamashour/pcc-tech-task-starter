@@ -3,7 +3,6 @@
 Our take-home is a brief test of your fundamental programming knowledge. It's hopefully much shorter than most take-homes you will encounter. This is because we feel that your time is valuable, and we do not want our test to be biased against people who have a busy schedule.
 
 We do not expect servers, or React apps so please don't feel like you need to spend hours adding these.
-If you pass this test, you will have the opportunity to expand on it and demonstrate your skills during an on-site pair programming interview.
 
 **The Task:**
 
