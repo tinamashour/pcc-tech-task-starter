@@ -28,7 +28,8 @@ your script must output a sorted array containing the following information for 
 
 The array must be sorted by rank. Rank is determined by points, then goal difference, then goals scored.
 
-There is a starter script in main.py or here: https://repl.it/@rjmackay/pcc-tech-task-starter
+There is a starter script in main.py or here: https://repl.it/@rjmackay/pcc-tech-task-starter. 
+If you would rather do this in JS or another language you are familiar with, please do.
 
 **What we’re looking for:**
 
