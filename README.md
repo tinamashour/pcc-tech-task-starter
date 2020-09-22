@@ -5,7 +5,7 @@ Our take-home is a brief test of your fundamental programming knowledge. It's ho
 We do not expect servers, or React apps so please don't feel like you need to spend hours adding these.
 If you pass this test, you will have the opportunity to expand on it and demonstrate your skills during an on-site pair programming interview.
 
-*The Task:*
+**The Task:**
 
 The English Premier League is the top-tier league of soccer (football) teams, which consists of 20 teams. Every year, each team in the league play 38 matches (2 matches against every other team).
 
@@ -33,6 +33,6 @@ The array must be sorted by rank. Rank is determined by points, then goal differ
 
 There is a starter script in main.py or here: https://repl.it/@rjmackay/pcc-tech-task-starter
 
-*What we’re looking for:*
+**What we’re looking for:**
 
 Clean, well structured code that outputs the correct results for the 2016-17 season. We are interested both in how you approach the problem and how you validate the output from your solution.
