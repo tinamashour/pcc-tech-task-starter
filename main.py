@@ -5,7 +5,7 @@ import pprint
 
 
 list_of_team = {}
-def english_premier_league_team_rank():
+def english_premier_league_team_rank(data):
     """
     rank team based on point, goal diffrencess and goal for
     return: dic 
@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
     pprint.pprint(data)
 
-    ranked_teams = english_premier_league_team_rank()
+    ranked_teams = english_premier_league_team_rank(data)
     pprint.pprint(ranked_teams)
    
 
